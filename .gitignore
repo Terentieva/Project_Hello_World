@@ -1,7 +1,0 @@
-$ cat .gitignore
-#ignore ext file
-Hello_World.iml
-#
-#ignore config files from idea
-.idea/
-target/
